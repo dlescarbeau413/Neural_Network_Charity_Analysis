@@ -38,7 +38,7 @@ Attempt 1:
 
 •	The first attempt to optimize our model was to add another hidden layer. We kept the same columns as in the first attempt as features but instead of 100 neurons in hidden layer 1, we increased it to 120 neurons. The second hidden layer also saw an increase of neurons with 50 neurons. The third layer, which was added, had 30 neurons. Each layer was used with the “relu” activation function. This attempt yielded an accuracy of 72.5% a small decrease in accuracy. 
 
-![](main/Resources/Opt_1_layers.PNG)
+![](Resources/Opt_1_layers.PNG)
 
 ![](Resources/Opt1_results.PNG)
 
